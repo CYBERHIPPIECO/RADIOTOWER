@@ -4,13 +4,12 @@
 # RADIO TOWER - NARRATIVE GAME
 Radio Tower (Global Game Jam 2014)
 
-PrześlijRadio Tower Frequency Regulator visuals (check for various dials)
-PrześlijWrite the plot of the Radio Tower and change it into visual storyboard
-PrześlijMake a visual mock-up of Radio Tower message deciphering mode
-PrześlijMake a mock-up of intro messages for Radio Tower
-Prześlij
+Radio Tower Frequency Regulator visuals (check for various dials)
+Write the plot of the Radio Tower and change it into visual storyboard
+Make a visual mock-up of Radio Tower message deciphering mode
+Make a mock-up of intro messages for Radio Tower
 
-Date of conception: 24th January 2014 - 26th January 2014
+**Date of conception:** 24th January 2014 - 26th January 2014
 
 Theme: We don’t see things as they are, we see them as we are.
 
@@ -88,12 +87,12 @@ Start
 About
 Quit
 
-PrześlijWrite down all the blabber
-Prześlijaudio broken sentences, player already started playing, looping beginning
-Prześlijmake Radio Tower / 2nd start section
-Prześlijfix the blizzard animation
-Prześlijtransitioning not working (gamepad?)
-Prześlijping sound
+Write down all the blabber
+audio broken sentences, player already started playing, looping beginning
+make Radio Tower / 2nd start section
+fix the blizzard animation
+transitioning not working (gamepad?)
+ping sound
 
 Mechanic:
 1) two towers pinging
